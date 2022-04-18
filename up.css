@@ -1,0 +1,197 @@
+body{
+    background-image: linear-gradient(to right,rgb(223, 195, 143),rgb(228, 149, 228));
+    
+    
+
+}
+.container{
+    display: flex;
+    width: 80%;
+    padding-left: 10%;
+    margin-top: 6%;
+    
+    
+  }
+   .container >div {
+    margin: auto; 
+    }
+    h4{
+      text-align: center;
+      padding-right: 18%;
+    }
+  
+  
+  .con{
+    background-color:rgb(223, 201, 160);
+    height: 500px;
+    width: 30%;
+    padding: 40px;
+    margin-left: 10%;
+  }
+  .cn input{
+    width: 380px;
+    }
+
+
+  h1{
+    font-family: 'Updock', cursive;
+    color: rgb(189, 128, 71);
+  }
+  .con-one{
+    background-color: rgb(240, 255, 255); 
+    height: 500px; 
+    width: 70%; 
+    padding: 40px;
+    margin: 0px;
+    margin-left: -50px;
+
+  }
+ 
+
+  
+  .con-two
+   
+    
+    
+    .containeronee{
+      display: flex;
+      align-items: center;
+    }
+    .con-three{
+      color: black;
+      align-content: center;
+      margin-left: 180px;
+      margin-top: -60px;
+      font-size: larger;
+    }
+    .con-one h6{
+      font-size: small;
+      color: black;
+      float: right; 
+      margin-top: -30px;
+      
+      
+
+    }
+   
+  
+      
+     
+  .containerthree{
+    margin-left: 150px;
+    margin-bottom: 90%;
+    
+  }
+.username{
+float: right;
+ margin-top: -55px;  
+margin-right: 50px;
+padding-left: 200px;
+
+}
+.con four{
+  margin-top: -10%;
+}
+input{
+  border-radius: 5px;
+  height: 30px;
+  margin-bottom: 0px;
+
+  }
+ 
+button{
+  
+  border-radius: 2px;
+  border: solid  2px;
+  background-color: rgb(233, 31, 98);
+  height: 30px;
+  width: 150px;
+  margin-left: 160px;
+  text-align: center;
+  margin-bottom: -30px;
+  
+}
+.button-one{
+  padding-left: 7px;
+
+  
+}
+#btn{
+  background-color: blue;
+  border-radius: 10px;
+  color: aliceblue;
+  padding-right: 10px;
+}
+.fa.fa-google{
+    color: aliceblue;
+}
+.atl{
+  text-decoration: none;
+}
+.blue{
+  text-decoration: none;
+}
+.style{
+  text-decoration: none;
+}
+.site{
+  margin-top: 20px;
+  padding-left: 160px;
+  }
+
+
+
+.con-four{
+  margin-left: 250px;
+  color: black;
+  margin-top: -1px;
+  font-size: larger;
+}
+
+
+
+form{
+ padding-left: 170px;
+ margin-top: -70px;
+
+
+}
+.fa.fa.fa-twitter{
+  background-color: rgba(228, 220, 220, 0.932);
+  text-decoration: none;
+  color: black;
+  margin-left: 10px;
+  height: 20px;
+  width: 25px;
+  padding: 5px;
+
+}
+.fa.fa.fa-facebook{
+  background-color: rgba(228, 220, 220, 0.932);
+  text-decoration: none;
+  color: black;
+  margin-left: 20px;
+  width: 25px;
+  height: 20px;
+  padding: 5px;
+  
+  
+}
+#unique{
+  margin-right:5%;
+ 
+ 
+ 
+    
+  } 
+    .or{
+     padding-left: 170px; 
+     } 
+
+  
+  
+ 
+
+  
+
+
